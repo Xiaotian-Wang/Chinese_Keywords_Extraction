@@ -1,5 +1,5 @@
 # Chinese_Keywords_Extraction
-<<<<<<< HEAD
+
 =======
 
 
@@ -30,4 +30,3 @@ author={Cui, Yiming and Che, Wanxiang and Liu, Ting and Qin, Bing and Yang, Ziqi
 journal={arXiv preprint arXiv:1906.08101},
 year={2019}
 }
->>>>>>> master
